@@ -1,0 +1,686 @@
+
+#div1{  
+    
+    display: flex;
+   justify-content: space-around;
+  
+  
+  
+}
+
+#div2{
+    display: flex;
+    justify-content: space-between;
+   
+}
+#header{
+  position:fixed;
+  z-index:1000;
+  background-color: white;
+  margin-top: -200px;
+  width:1300px;
+  overflow:null;
+  
+}
+#content{
+  margin-top: 200px;
+}
+#search{
+    width:300px;
+    height:40px;
+    margin-top: 20px;
+    margin-right: 290px;
+    
+}
+#dwd,#sup,#Pro,#Cart{
+   
+    font-size:15px;
+    margin-top:30px;
+   
+}
+#download_page{
+    width:1200px;
+    height:500px;
+   margin-bottom: 100px;;
+   position:relative;
+   display:flex;
+   
+   margin-top: 200px;
+   margin-left:65px
+}
+#dwn_img_div{
+    width:600px;
+    height:500px;
+  
+}
+#text_content{
+    width:700px;
+    height:500px;
+   
+    position:relative;
+    background-color: rgb(241, 247, 248);
+    margin-left:50px;
+
+}
+#download_img{
+  height:400px;
+  width:500px;
+  margin-top:60px;
+  margin-left:50px;
+  
+}
+#dwd_text{
+    height:200px;
+    width:450px;
+   
+    position: relative;
+    margin-left:60px;
+    margin-top: 50px;
+    text-align: start;
+    font-size: 40px;
+    font-weight:500;
+}
+#fd{
+    width:450px;
+    height:100px;
+    
+    margin-top:-30px;
+    display: flex;
+    margin-left:70px;
+    background-color: white;
+}
+#dwn_img{
+width:30px;
+height:30px;
+margin-left: 40px;
+margin-top:10px;
+}
+#del_img{
+    width:60px;
+    margin-left:20px;
+    margin-top:-50px;
+}
+#del{
+    margin-top: 30px;
+}
+#hr2{
+    margin-left:10px;
+    margin-right:-20px;
+}
+#dwn_app{
+    margin-left:70px;
+    margin-top:50px;
+    width:350px;
+    height:50px;
+    background-color: purple;
+  position:relative;
+  display:flex;
+}
+#clothes{
+   background: linear-gradient(#eccfb3, #aaacbb);
+    width: 1200px;
+    margin-left:65px;
+    position:absolute;
+   
+    display:flex;
+}
+#women{
+    height:600px;
+    width:500px;
+    
+   
+}
+#men{
+    height:600px;
+    width:500px;
+    
+}
+#vr{
+    margin-top:25px;
+    height:50px;
+}
+#Pro{
+    margin-right: 20px;
+}
+#Cart{
+  margin-right:15px;
+}
+#kid{
+    width:600px;
+    height:400px;
+   
+    display:flex;
+}
+#meesho{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:rgb(213, 13, 126);
+  margin-right:20px;
+  margin-left:10px;
+}
+#hr1{
+    margin-top: 2px;
+    margin-left:3px;
+    margin-right:-10px;
+  
+}
+#wimg{
+    margin-top:100px;
+    height:450px;
+    width:400px;
+  
+
+}
+#t1{
+    font-size: 50px;
+  margin-top: 90px;
+   
+}
+#kid{
+    justify-content: space-between;
+}
+#mim,#kim{
+   width:330px;
+   height:350px;
+   margin:10px;
+   
+}
+ 
+
+#essentials{
+    margin-top:700px;
+    background: linear-gradient(#eccfb3, #aaacbb);
+    width:1200px;
+    height:700px;
+    background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZdfqrfLipG1Yf8x5MoKamghip6ZWPECzcRF0EVU9xofLQzYZw);
+    margin-left:65px;
+    position:absolute;
+    display:flex;
+    background-repeat: no-repeat;
+    background-size:1200px 700px;
+}    
+ #bt1{
+    width:110px;
+    height:60px;
+    background-color: purple;
+    font-size: 20px;
+    color:white;
+}
+#t2{
+    font-size: 60px;
+    width:200px;
+    margin:100px;
+    margin-top:200px;
+}
+ #hd,#hc,#ka{
+    width:200px;
+    height:400px;
+  
+    margin:10px;
+    margin-top:80px;
+}
+#Homedecor,#KitApp,#Health{
+    width:150px;
+    height:90px;
+  
+    margin: 40px;
+    margin-top: 2px;
+   
+   
+}  
+#image_name{
+    justify-content: space-between;
+    position:absolute;
+   
+   
+}
+
+#first{
+    height:700px;
+    width:400px;
+   
+    display: flex;
+}
+#second{
+    width:800px;
+  
+   
+} 
+#image{
+    height:500px;
+    width:800px;
+  
+}
+#image_name{
+   
+   
+    height:200px;
+    width:800px;
+   
+}
+#newstyles{
+    margin-top:1500px;
+    background: linear-gradient(#eccfb3, #aaacbb);
+    width:1200px;
+    height:700px;
+   
+    margin-left:65px;
+    position:absolute;
+    display:flex;
+}   
+
+#bt2{
+    width:110px;
+    height:60px;
+    background-color: purple;
+    font-size: 20px;
+    color:white;
+    margin-top:10px;
+    
+}
+#t3{
+    font-size:60px;
+    /* width:200px; */
+    margin:45px;
+    margin-top:200px;
+   
+}
+#styles{
+    height:700px;
+    width:400px;
+  
+    display: flex;
+}
+
+#Acc,#Fw,#Elc{
+    width:220px;
+    height:400px;
+  
+    margin:20px;
+    margin-top:80px;
+}
+#pic_name{
+   
+   
+    height:200px;
+    width:800px;
+   
+}
+#pic_name{
+    justify-content: space-between;
+    position:absolute;
+   
+   
+}
+#Access,#Foot,#Elec{
+    width:150px;
+    height:90px;
+  
+    margin: 50px;
+    margin-top: 2px;
+   
+   
+}  
+
+#h2{
+    font-weight: 400;
+    margin-bottom:1px;
+    margin-left:7px;
+}
+
+#h4{
+    font-weight:500;
+    margin-left:7px;
+    margin-top:1px;
+    margin-bottom:10px;
+}
+#right_content{
+    width: 1000px;
+    margin-top:2300px;
+    position:relative;
+    margin-left:50px;
+   
+}
+
+#row1{
+    height:320px;
+    width:1000px;
+   
+    display:flex;
+    margin-bottom:50px;
+}
+#img1{
+    height:350px;
+    width:200px;
+    border:1px solid grey;
+    margin:20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+img{
+    height:200px;
+    width:150px;
+}
+#name{
+    font-weight:200;
+    color:grey;
+    margin-top:2px;
+    margin-bottom:1px;
+}
+#cost{
+    text-align: start;
+    margin-left:15px;
+    margin-top:3px;
+    margin-bottom:2px;
+}
+ #delivery{
+    width:100px;
+    height:25px;
+    border:1px solid  rgb(227, 227, 242);
+   background-color: rgb(227, 227, 242);
+    border-radius: 20px;
+    margin-top:8px;
+    margin-left:12px ;
+} 
+#rating{
+    width:50px;
+    height:30px;
+    border:1px solid  rgb(227, 227, 242);
+    color:blue;
+    border-radius: 100px;
+    text-align:center;
+    margin-left:20px;
+}
+/* ...existing styles... */
+
+.we-wrapper,.ww-wrapper,.m-wrapper,.K-wrapper,.hk-wrapper,.bh-wrapper,.ja-wrapper,.bf-wrapper,.e-wrapper{
+    position: relative;
+    display: inline-block;
+    margin-right: 30px; /* Adjust as needed */
+   
+  }
+
+  .we-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 1250px;
+    z-index: 1;
+    left: 20px;
+    top: 50px; /* Adjust as needed */
+    /* left: 0px; */
+    overflow-block: hidden;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.1);
+    
+  }  
+  .ww-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 1250px;
+    z-index: 1;
+    
+    top: 50px; /* Adjust as needed */
+    left: -150px;
+    overflow-block: hidden;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.1);
+    
+  } .m-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width:1250px;
+    z-index: 1;
+    
+    top: 50px; /* Adjust as needed */
+    left: -315px;
+    overflow-block: hidden;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.1);
+    
+
+  }
+  .K-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width:1250px;
+    z-index: 1;
+    left: -390px;
+    top: 50px; /* Adjust as needed */
+  
+    overflow-block: hidden;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.1);
+    
+  }
+  .hk-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width:1250px;
+    z-index: 1;
+    left: -460px;
+    top: 50px; /* Adjust as needed */
+   
+    overflow-block: hidden;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.1);
+    
+  }
+  .bh-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 1250px;
+    z-index: 1;
+    left: -625px;
+    top: 50px; /* Adjust as needed */
+  
+    overflow-block: hidden;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.1);
+    
+  }
+  .ja-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width:1250px;
+    z-index: 1;
+    left: -787px;
+    top: 50px; /* Adjust as needed */
+  
+    overflow-block: hidden;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.1);
+    
+  }
+  .bf-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width:1250px;
+    z-index: 1;
+    left: -1008px;
+    top: 50px; /* Adjust as needed */
+   
+    overflow-block: hidden;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.1);
+    
+  }
+  .e-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 1250px;
+    z-index: 1;
+    left: -1175px;
+    top: 50px; /* Adjust as needed */
+   
+    overflow-block: hidden;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.1);
+    
+  }
+  
+  
+  .we-wrapper:hover .we-content {
+    display: block;
+  }
+  .we-content:hover{
+    display: block;
+  
+  }
+  
+  .we-trigger {
+    position: relative;
+   
+    margin-left:10px;
+  }
+  
+  .we-trigger:hover {
+    color: purple; /* Change text color to green on hover */
+    text-decoration: underline; /* Underline the text on hover */
+    text-decoration-color:purple;
+    text-decoration-thickness:4px;
+    text-underline-offset: 8px; 
+
+}
+#Ethnic{
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+}
+.ww-wrapper:hover .ww-content{
+    display: block;
+   
+    
+  }
+  .ww-content:hover .ww-trigger{
+    display: block;
+    
+  }
+  .ww-trigger{
+    position:relative;
+    color:initial;
+    transition: color 0.3s;
+  }
+  .ww-trigger:hover {
+    color: purple; /* Change text color to green on hover */
+    text-decoration: underline; /* Underline the text on hover */
+    text-decoration-color:purple;
+    text-decoration-thickness:4px;
+    text-underline-offset: 8px; 
+
+}
+  .m-wrapper:hover .m-content {
+    display: block;
+  }
+  .m-content:hover{
+    display: block;
+  }
+  .m-trigger:hover {
+    color: purple; /* Change text color to green on hover */
+    text-decoration: underline; /* Underline the text on hover */
+    text-decoration-color:purple;
+    text-decoration-thickness:4px;
+    text-underline-offset: 8px; 
+
+}
+  .K-wrapper:hover .K-content {
+    display: block;
+  }
+  .K-content:hover{
+    display: block;
+  }
+  .K-trigger:hover {
+    color: purple; /* Change text color to green on hover */
+    text-decoration: underline; /* Underline the text on hover */
+    text-decoration-color:purple;
+    text-decoration-thickness:4px;
+    text-underline-offset: 8px; 
+
+}
+  .hk-wrapper:hover .hk-content {
+    display: block;
+  }
+  .hk-content:hover{
+    display: block;
+  }
+  .hk-trigger:hover {
+    color: purple; /* Change text color to green on hover */
+    text-decoration: underline; /* Underline the text on hover */
+    text-decoration-color:purple;
+    text-decoration-thickness:4px;
+    text-underline-offset: 8px; 
+
+}
+  .bh-wrapper:hover .bh-content {
+    display: block;
+  }
+  .bh-content:hover{
+    display: block;
+  }
+  .bh-trigger:hover {
+    color: purple; /* Change text color to green on hover */
+    text-decoration: underline; /* Underline the text on hover */
+    text-decoration-color:purple;
+    text-decoration-thickness:4px;
+    text-underline-offset: 8px; 
+
+}
+  .bf-wrapper:hover .bf-content {
+    display: block;
+  }
+  .bf-content:hover{
+    display: block;
+  }
+  .bf-trigger:hover {
+    color: purple; /* Change text color to green on hover */
+    text-decoration: underline; /* Underline the text on hover */
+    text-decoration-color:purple;
+    text-decoration-thickness:4px;
+    text-underline-offset: 8px; 
+
+}
+  .e-wrapper:hover .e-content {
+    display: block;
+  }
+  .e-content:hover{
+    display: block;
+  }
+  .e-trigger:hover {
+    color: purple; /* Change text color to green on hover */
+    text-decoration: underline; /* Underline the text on hover */
+    text-decoration-color:purple;
+    text-decoration-thickness:4px;
+    text-underline-offset: 8px; 
+
+}
+  .ja-wrapper:hover .ja-content {
+    display: block;
+  }
+  .ja-content:hover{
+    display: block;
+  }
+  .ja-trigger:hover {
+    color: purple; /* Change text color to green on hover */
+    text-decoration: underline; /* Underline the text on hover */
+    text-decoration-color:purple;
+    text-decoration-thickness:4px;
+    text-underline-offset: 8px; 
+
+}
+  
